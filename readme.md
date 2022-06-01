@@ -12,11 +12,11 @@ Read these articles before you proceed:
 
 # Check the slides
 
-Take a look at these [slides](slides.html).
+Take a look at these [slides]((https://codex-academy.github.io/pizza-list/slides.html)).
 
 ## Watch this workshop
 
-Next watch this [workshop](https://youtu.be/D9r5-j2viA8).
+Next watch this ![workshop](https://youtu.be/D9r5-j2viA8).
 
 ## Try it out
 
