@@ -16,7 +16,7 @@ Take a look at these [slides]((https://codex-academy.github.io/pizza-list/slides
 
 ## Watch this workshop
 
-Next watch this ![workshop](https://youtu.be/D9r5-j2viA8).
+Next watch this [workshop](https://youtu.be/D9r5-j2viA8).
 
 ## Try it out
 
