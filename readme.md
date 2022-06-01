@@ -12,7 +12,7 @@ Read these articles before you proceed:
 
 # Check the slides
 
-Take a look at these [slides]((https://codex-academy.github.io/pizza-list/slides.html)).
+Take a look at these [slides](https://codex-academy.github.io/pizza-list/slides.html).
 
 ## Watch this workshop
 
